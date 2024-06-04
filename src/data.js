@@ -25,7 +25,7 @@ export const quizData = {
       selected: null,
     },
     {
-      text: 'What is the highest point of Africaa?',
+      text: 'What is the highest point of Africa?',
       answers: {
         a: 'Mount Kenya',
         b: 'Mount Klimanjaro',
