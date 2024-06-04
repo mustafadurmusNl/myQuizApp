@@ -12,97 +12,96 @@
 export const quizData = {
   currentQuestionIndex: 0,
   // the questions in the quiz
-  questions: [ 
+  questions: [
     {
-      text: 'How is the Netherland national football team called?',
+      text: "How is the Netherland national football team called?",
       answers: {
-        a: 'Oranje',
-        b: 'Blues',
-        c: 'Lions',
-        d: 'Heros',
+        a: "Oranje",
+        b: "Blues",
+        c: "Lions",
+        d: "Heros",
       },
-      correct: 'a',
+      correct: "a",
       selected: null,
     },
     {
-      text: 'What is the highest point of Africa?',
+      text: "What is the highest point of Africa?",
       answers: {
-        a: 'Mount Kenya',
-        b: 'Mount Klimanjaro',
-        c: 'Mount Everest',
-        d: 'Mount Blanc'
-        
+        a: "Mount Kenya",
+        b: "Mount Klimanjaro",
+        c: "Mount Everest",
+        d: "Mount Blanc",
       },
-      correct: 'b',
+      correct: "b",
       selected: null,
     },
 
     {
-      text: 'Which country is the largest producer of coffee beans in the world?',
+      text: "Which country is the largest producer of coffee beans in the world?",
       answers: {
-         a: 'Colombia',
-         b: 'Kenya',
-         c: 'Brazil',
-         d: 'Netherland'
+        a: "Colombia",
+        b: "Kenya",
+        c: "Brazil",
+        d: "Netherland",
       },
-      correct: 'c',
+      correct: "c",
       selected: null,
     },
-    {                       
-      text: 'What is the main cause of wind?',
+    {
+      text: "What is the main cause of wind?",
       answers: {
-        a: ' Earth rotation',
-        b: 'Ocean currents',
-        c: 'Temperature differences',
-        d: 'Earth magnetic field',
+        a: " Earth rotation",
+        b: "Ocean currents",
+        c: "Temperature differences",
+        d: "Earth magnetic field",
       },
-      correct: 'c',
+      correct: "c",
       selected: null,
     },
 
     {
-      text: 'Who is credited with the discovery of the element Oxygen?',
+      text: "Who is credited with the discovery of the element Oxygen?",
       answers: {
-        a: 'Marie Curie',
-        b: 'Albert Einstein',
-        c: 'Joseph Priestley',
-        d: 'Dmitri Mendeleev',
+        a: "Marie Curie",
+        b: "Albert Einstein",
+        c: "Joseph Priestley",
+        d: "Dmitri Mendeleev",
       },
-      correct: 'c',
+      correct: "c",
       selected: null,
     },
-    {                     
-      text: 'What is the highest point in the Netherlands?',
-      answers: {              
-        a: 'Vaalserberg',
-        b: 'Utrechtse Heuvelrug',
-        c: 'Veluwe',
-        d: 'Sallandse Heuvelrug',
+    {
+      text: "What is the highest point in the Netherlands?",
+      answers: {
+        a: "Vaalserberg",
+        b: "Utrechtse Heuvelrug",
+        c: "Veluwe",
+        d: "Sallandse Heuvelrug",
       },
-      correct: 'a',
+      correct: "a",
       selected: null,
     },
 
     {
-      text: 'What is “Stroopwafel” one of the most famous Dutch foods?',
+      text: "What is “Stroopwafel” one of the most famous Dutch foods?",
       answers: {
-        a: 'A type of cheese',
-        b: 'A chocolate biscuit',
-        c: 'Thin waffle with caramel',
-        d: 'A sweet pie',
+        a: "A type of cheese",
+        b: "A chocolate biscuit",
+        c: "Thin waffle with caramel",
+        d: "A sweet pie",
       },
-      correct: 'c',
+      correct: "c",
       selected: null,
     },
-    {      
-      text: "Who is known as the 'King of Pop'?",  
-      answers: {                                     
+    {
+      text: "Who is known as the 'King of Pop'?",
+      answers: {
         a: "Elvis Presley",
         b: "Michael Jackson",
         c: "Prince",
         d: "Madonna",
       },
-      correct: 'b',
+      correct: "b",
       selected: null,
     },
 
@@ -114,20 +113,19 @@ export const quizData = {
         c: "Ludwig van Beethoven",
         d: "Franz Schubert",
       },
-      correct: 'c',
+      correct: "c",
       selected: null,
     },
     {
       text: "What is the term used to describe the quality of a musical tone that distinguishes it from others of the same pitch and volume?",
       answers: {
-        a: 'Timbre',
-        b: 'Rhythm',
-        c: 'Melody',
-        d: 'Harmony',
+        a: "Timbre",
+        b: "Rhythm",
+        c: "Melody",
+        d: "Harmony",
       },
-      correct: 'a',
+      correct: "a",
       selected: null,
     },
-
   ],
 };
